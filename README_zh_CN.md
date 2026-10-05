@@ -1,3 +1,18 @@
+<!-- 0xfaheng-brand:start -->
+**0xfaheng · FlClash**
+
+> 0xfaheng · 上海封阳科技创始人
+
+[品牌主页与全部公开项目](https://github.com/0xfaheng) · [当前仓库](https://github.com/0xfaheng/FlClash)
+
+> 本仓库是 0xfaheng 使用或维护的 Fork。原项目来源：[chen08209/FlClash](https://github.com/chen08209/FlClash)。原项目版权及许可条款以原作者声明为准。
+
+微信：`faheng2009` · [X @0xfaheng](https://x.com/0xfaheng) · [YouTube @0xfaheng](https://www.youtube.com/@0xfaheng) · [微信二维码](https://github.com/0xfaheng#联系与关注)
+
+<!-- 0xfaheng-brand:end -->
+
+---
+
 <div>
 
 [**English**](README.md)
